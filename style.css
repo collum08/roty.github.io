@@ -76,7 +76,7 @@ nav ul li a{
 /*Main*/
 /*Main index*/
 #showcase {
-  background:url('./img/jc-gellidon-XmYSlYrupL8-unsplash.jpg') no-repeat;
+  background:url('jc-gellidon-XmYSlYrupL8-unsplash.jpg') no-repeat;
   background-size: 100%;
   min-height: 700px;
   color: #ffffff;
@@ -86,7 +86,7 @@ nav ul li a{
 
 /*Main team*/
 #team_list{
-  background:url('./img/eduard-delputte-YLmCyMofG6s-unsplash.jpg') no-repeat;
+  background:url('eduard-delputte-YLmCyMofG6s-unsplash.jpg') no-repeat;
   background-size: 100%;
   min-height: 700px;
 }
